@@ -38,6 +38,10 @@ body {
   font-size: 40px;
 }
 
+.word {
+  font-family: 'MuseoModerno', cursive;
+}
+
 .tools {
   position: absolute;
   top: 41em;
