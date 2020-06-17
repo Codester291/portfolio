@@ -63,15 +63,13 @@ body {
 .my-portfolio {
   border: 1px dotted #555555;
   border-radius: 12px;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  flex-wrap: wrap; */
 }
 img {
-  width: 700px;
-  height: 350px;
-  border-radius: 12px;
+  width: 800px;
+  height: 450px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom: 1px dotted #555555;
 }
 
 footer {
