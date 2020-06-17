@@ -3,6 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Sriracha&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Tera&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@600&display=swap');
 body {
   font-family: "Open Sans", sans-serif;
   background: #333333;
@@ -21,9 +22,9 @@ body {
   color: #f1f1f1;
   /* font-family: "Inconsolata", monospace; */
   /* font-family: 'Sriracha', cursive; */
-  font-family: "Montserrat", sans-serif;
+  font-family: 'MuseoModerno', cursive;
   padding-left: 12px;
-  font-size: 40px;
+  font-size: 34px;
   font-weight: lighter;
 }
 
